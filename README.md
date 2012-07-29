@@ -1,6 +1,7 @@
 Hi everyone.
 =============
-This is the working code for the *O'Reilly Chapter 2 Book "Up and running"* tuorial.
+This is the working code for the O'Reilly *"Node Up and running"*
+**Chapter 2 Let's build twitter app.**
 
 To run it:
 
